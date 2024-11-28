@@ -19,3 +19,4 @@ public class Post {
         this.contents  = contents;
     }
 }
+// 클론 후 수정
